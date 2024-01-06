@@ -1,5 +1,7 @@
 # Password Generator
 
+### level : Beginner
+
 ### Things i learnt from this:
 
 - useState
